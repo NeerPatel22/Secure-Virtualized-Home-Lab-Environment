@@ -1,4 +1,3 @@
-# Secure-Virtualized-Home-Lab-Environment
 # Secure Virtualized Home Lab Environment
 
 A basic home lab project simulating a secure enterprise IT environment using VirtualBox. The setup includes services like Active Directory, DNS, DHCP, firewall (pfSense), VPN, and security tools such as Nessus and Splunk.
